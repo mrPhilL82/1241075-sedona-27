@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Philipp Shamin](https://up.htmlacademy.ru/htmlcss/27/user/1241075).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Алипкин] (https://htmlacademy.ru/profile/ealipkin)
 
 ---
 
